@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
  
-String apiKey = "  ";     //  Enter your Write API key from ThingSpeak
+String apiKey = "PTFVKE7AWK8YH55M";   
  
-const char *ssid =  "WiFi";  // name of your wifi
-const char *pass =  " ";  // password of your wifi
+const char *ssid =  "frooti";  
+const char *pass =  "frooti185"; 
 const char* server = "api.thingspeak.com";
  
 int pir_sensor =  D1; 
